@@ -89,7 +89,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * Dungeon and Developers - http://www.dungeonsanddevelopers.com/
 * JS.Checkio - https://js.checkio.org/
 * OpenSourceFriday - https://opensourcefriday.com/ (Site que ajuda você a ajudar projetos OpenSource)
-* Kaggle - https://www.kaggle.com/ (is the place to do data science projects)
+* Kaggle - https://www.kaggle.com/ (é o lugar para fazer projetos de ciência de dados)
 	
 ## Canais:
 	
