@@ -35,6 +35,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * wired
 * thoughtworks (Olhar o radar) - https://www.thoughtworks.com/pt
 * https://dzone.com/
+* Minerando Dados - http://minerandodados.com.br/ (Blog sobre Data Science)
 	
 ## Cursos:
 		
