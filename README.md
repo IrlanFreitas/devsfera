@@ -92,6 +92,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * JS.Checkio - https://js.checkio.org/
 * OpenSourceFriday - https://opensourcefriday.com/ (Site que ajuda você a ajudar projetos OpenSource)
 * Kaggle - https://www.kaggle.com/ (é o lugar para fazer projetos de ciência de dados)
+* https://regexcrossword.com/ - Site para testar Regex.
 	
 ## Canais:
 	
