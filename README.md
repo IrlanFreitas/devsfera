@@ -42,7 +42,8 @@ Encontrar uma forma de posso acessar todos os sites.
 		
 * hackr.io - cursos / eng pt-br
 * plurasight - cursos / eng
-* treehouse - cursos / eng
+* treehouse - https://teamtreehouse.com/ - cursos / eng
+* skillshare - https://www.skillshare.com/ - cursos / eng
 * alura - cursos / pt-br
 * devmedia - cursos / pt-br
 * algaworks - cursos / pt-br
