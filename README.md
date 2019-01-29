@@ -68,6 +68,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * Github Learning Labs - https://lab.github.com/
 * Hacker 101 - https://www.hacker101.com/
 * Learn Javascript Online - https://learnjavascript.online
+* Brilliant - https://brilliant.org/ - cursos / eng
 	
 ## Desafios:
 
