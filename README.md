@@ -37,6 +37,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://dzone.com/
 * Minerando Dados - http://minerandodados.com.br/ (Blog sobre Data Science)
 * https://www.manning.com/ - Compras de ebooks sobre tecnologias
+* https://devfreebooks.github.io/ - Site de livros grátis para devs
 	
 ## Cursos:
 		
@@ -96,7 +97,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * OpenSourceFriday - https://opensourcefriday.com/ (Site que ajuda você a ajudar projetos OpenSource)
 * Kaggle - https://www.kaggle.com/ (é o lugar para fazer projetos de ciência de dados)
 * https://regexcrossword.com/ - Site para testar Regex.
-* https://devfreebooks.github.io/ - Site de livros grátis para devs
+
 	
 ## Canais:
 	
