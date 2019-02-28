@@ -71,6 +71,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * Learn Javascript Online - https://learnjavascript.online
 * Brilliant - https://brilliant.org/ - eng
 * FrontEnd Masters - https://frontendmasters.com/ - eng
+* How To GraphQl - https://www.howtographql.com/ - eng
 	
 ## Desafios:
 
