@@ -38,6 +38,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * Minerando Dados - http://minerandodados.com.br/ (Blog sobre Data Science)
 * https://www.manning.com/ - Compras de ebooks sobre tecnologias
 * https://devfreebooks.github.io/ - Site de livros grátis para devs
+* https://www.thebrief.com.br/ - Site de atualizações
 	
 ## Cursos:
 		
