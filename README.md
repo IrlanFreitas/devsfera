@@ -40,6 +40,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://devfreebooks.github.io/ - Site de livros grátis para devs
 * https://www.thebrief.com.br/ - Site de atualizações
 * https://overreacted.io/pt-br/ - Blog de Dan Abramov (Um cara foda na tecnológia)
+* https://scotch.io - Blog
 	
 ## Cursos:
 		
