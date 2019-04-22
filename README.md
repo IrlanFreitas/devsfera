@@ -1,4 +1,4 @@
-# devsfera
+# Devsfera
 
 Pessoas, sites sobre o assunto e sites de curso, sites de desafios, canais no youtube :
 	
@@ -42,7 +42,12 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://overreacted.io/pt-br/ - Blog de Dan Abramov (Um cara foda na tecnológia)
 * https://scotch.io - Blog
 * https://gimli.app/ - Editor front end facilitador de geração de telas
-	
+
+## Artigos Importantes:
+
+* https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2
+* http://bevacqua.github.io/promisees/
+
 ## Cursos:
 		
 * hackr.io - cursos / eng pt-br
