@@ -42,6 +42,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://overreacted.io/pt-br/ - Blog de Dan Abramov (Um cara foda na tecnológia)
 * https://scotch.io - Blog
 * https://gimli.app/ - Editor front end facilitador de geração de telas
+* http://sorting.at/ - Site sobre apresentações sobre formas de fazer ordenação
 
 ## Artigos Importantes:
 
