@@ -83,6 +83,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * FrontEnd Masters - https://frontendmasters.com/ - eng
 * How To GraphQl - https://www.howtographql.com/ - eng
 * GlobalCode - https://www.globalcode.com.br/gratuitos/minicursos 
+* https://scrimba.com/ - eng
 	
 ## Desafios:
 
