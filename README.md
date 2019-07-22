@@ -46,6 +46,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://undesign.learn.uno/ - Uma coleção de ferramentas de design gratuitos pra devs e designers
 * https://belly.io/programming - Curadoria de lives de programação
 * https://www.programmableweb.com/apis/directory - Catálogo de API's
+* https://opensource.guide/pt/ - Guia de Open Source criado pelo Github
 
 ## Artigos Importantes:
 
