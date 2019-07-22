@@ -45,6 +45,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * http://sorting.at/ - Site sobre apresentações sobre formas de fazer ordenação
 * https://undesign.learn.uno/ - Uma coleção de ferramentas de design gratuitos pra devs e designers
 * https://belly.io/programming - Curadoria de lives de programação
+* https://www.programmableweb.com/apis/directory - Catálogo de API's
 
 ## Artigos Importantes:
 
