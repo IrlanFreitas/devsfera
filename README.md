@@ -47,6 +47,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://belly.io/programming - Curadoria de lives de programação
 * https://www.programmableweb.com/apis/directory - Catálogo de API's
 * https://opensource.guide/pt/ - Guia de Open Source criado pelo Github
+* https://www.npmtrends.com - Comparações de pacotes npm para saber se vale a pena instalar
 
 ## Artigos Importantes:
 
