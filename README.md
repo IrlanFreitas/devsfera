@@ -90,6 +90,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * How To GraphQl - https://www.howtographql.com/ - eng
 * GlobalCode - https://www.globalcode.com.br/gratuitos/minicursos 
 * https://scrimba.com/ - eng
+* http://www.powersearchingwithgoogle.com/ - Curso de Pesquisa Avançada no Google
 	
 ## Desafios:
 
