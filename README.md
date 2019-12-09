@@ -91,7 +91,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * GlobalCode - https://www.globalcode.com.br/gratuitos/minicursos 
 * https://scrimba.com/ - eng
 * http://www.powersearchingwithgoogle.com/ - Curso de Pesquisa Avançada no Google
-* [Rocketseat](https://rocketseat.com.br/) - pt/br - Pago e free
+* [Rocketseat](https://skylab.rocketseat.com.br/dashboard) - pt/br - Pago e free - Skylab plataforma de cursos free
 	
 ## Desafios:
 
