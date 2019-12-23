@@ -120,6 +120,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * OpenSourceFriday - https://opensourcefriday.com/ (Site que ajuda você a ajudar projetos OpenSource)
 * Kaggle - https://www.kaggle.com/ (é o lugar para fazer projetos de ciência de dados)
 * https://regexcrossword.com/ - Site para testar Regex.
+* [Real Dev](https://real.dev/) - Ensinar conceitos de programação te fazendo resolver problemas do mundo real
+* [Advent of Code](https://adventofcode.com/) - Aprender uma linguagem nova/aperfeiçoar uma linguagem que tu já sabe e de praxe também praticar TDD 
 
 	
 ## Canais:
