@@ -50,6 +50,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://www.npmtrends.com - Comparações de pacotes npm para saber se vale a pena instalar
 * https://sizzy.co/ - Browser para testar front
 * https://carbon.now.sh/ - Site para criar print de códigos legais
+* [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
 
 ## Artigos Importantes:
 
