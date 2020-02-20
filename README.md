@@ -51,6 +51,10 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://sizzy.co/ - Browser para testar front
 * https://carbon.now.sh/ - Site para criar print de códigos legais
 * [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
+
+
+## Ferramentas:
+
 * [Color Whell](https://color.adobe.com/pt/create) - Site que ajuda com a escolha das cores
 
 ## Artigos Importantes:
