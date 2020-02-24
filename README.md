@@ -60,7 +60,7 @@ Encontrar uma forma de posso acessar todos os sites.
 
 ## Projetos:
 
-* [App Ideias Collection](https://github.com/florinpop17/app-ideas) - Repositório com mais de 80 ideias para fazer projetos
+* [App Ideias Collection](https://github.com/florinpop17/app-ideas){:target="_blank"} - Repositório com mais de 80 ideias para fazer projetos
 
 ## Artigos Importantes:
 
