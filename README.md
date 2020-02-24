@@ -58,6 +58,10 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Free For Dev](https://free-for.dev/#/) - Um site com mais de 680 ferramentas para desenvolvedores
 * [Color Whell](https://color.adobe.com/pt/create) - Site que ajuda com a escolha das cores
 
+## Projetos:
+
+* [App Ideias](https://github.com/florinpop17/app-ideas) - Repositório com mais de 80 ideias para fazer projetos
+
 ## Artigos Importantes:
 
 * https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2
