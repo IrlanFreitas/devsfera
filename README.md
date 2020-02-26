@@ -57,6 +57,7 @@ Encontrar uma forma de posso acessar todos os sites.
 
 * [Free For Dev](https://free-for.dev/#/) - Um site com mais de 680 ferramentas para desenvolvedores
 * [Color Whell](https://color.adobe.com/pt/create) - Site que ajuda com a escolha das cores
+* [Shields.io](https://shields.io/) - Site para colocar badges no repositório do git usando o Travis, Docker etc.
 
 ## Projetos:
 
