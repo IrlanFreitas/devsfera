@@ -108,6 +108,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * [jscomplete](https://jscomplete.com/) - eng - Pago, site para aprender tudo relacionado a js
 * [Digital Innovation One](https://digitalinnovation.one/) - pt/br - Free - Cursos, bootcamps e projetos sobre tecnologia e inovação
 * [Refactoring.Guru](https://refactoring.guru/) - eng - Fremium - Facilita a descoberta de tudo o que você precisa saber sobre refatoração, padrões de design, princípios do SOLID e outros tópicos de programação inteligente.
+* [Developer to Architect](https://www.developertoarchitect.com/) - eng - Treinamento e recursos para a jornada de
+desenvolvedor para arquiteto de software
 	
 ## Desafios:
 
