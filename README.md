@@ -7,8 +7,8 @@ Encontrar uma forma de posso acessar todos os sites.
 	
 ## Sites sobre tecnologia:
 		
-* dev.to - site sobre o assunto
-* dev.all - site sobre programação
+* [dev.to](https://dev.to/) - site sobre o assunto
+* [dev.all](https://www.devall.com.br/) - site sobre programação
 * the hack - https://thehack.com.br/
 * William Oliveiras - https://woliveiras.com.br
 * Gabs Ferreira - http://gabsferreira.com/
