@@ -138,7 +138,8 @@ desenvolvedor para arquiteto de software
 * Kaggle - https://www.kaggle.com/ (é o lugar para fazer projetos de ciência de dados)
 * https://regexcrossword.com/ - Site para testar Regex.
 * [Real Dev](https://real.dev/) - Ensinar conceitos de programação te fazendo resolver problemas do mundo real
-* [Advent of Code](https://adventofcode.com/) - Aprender uma linguagem nova/aperfeiçoar uma linguagem que tu já sabe e de praxe também praticar TDD 
+* [Advent of Code](https://adventofcode.com/) - Aprender uma linguagem nova/aperfeiçoar uma linguagem que tu já sabe e de praxe também praticar TDD
+* [Javascript30](https://javascript30.com/) - Construindo 30 coisas com 30 dias com 30 tutoriais. Sem Frameworks × Sem Compiladores × Sem Bibliotecas × Sem Boilerplate
 
 	
 ## Canais:
