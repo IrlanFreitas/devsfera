@@ -112,6 +112,7 @@ Encontrar uma forma de posso acessar todos os sites.
 desenvolvedor para arquiteto de software
 * [Aprenda React](https://www.aprendareact.com.br/) - pt/br - Aprender os básicos de React e
 evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.js
+* [Desenvolvedor.io](https://desenvolvedor.io/) - pt/br - Cursos na área de desenvolvimento com foco em Arquitetura de Software
 	
 ## Desafios:
 
