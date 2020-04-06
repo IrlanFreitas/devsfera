@@ -110,6 +110,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Refactoring.Guru](https://refactoring.guru/) - eng - Fremium - Facilita a descoberta de tudo o que você precisa saber sobre refatoração, padrões de design, princípios do SOLID e outros tópicos de programação inteligente.
 * [Developer to Architect](https://www.developertoarchitect.com/) - eng - Treinamento e recursos para a jornada de
 desenvolvedor para arquiteto de software
+* [Aprenda React](https://www.aprendareact.com.br/) - pt/br - Aprender os básicos de React e
+evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.js
 	
 ## Desafios:
 
