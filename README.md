@@ -19,7 +19,6 @@ Encontrar uma forma de posso acessar todos os sites.
 * Animate.css - (Animações em Css)
 * iMasters - 
 * Graphic Burguer - https://graphicburger.com/ (Referencias de Design)
-* Dribbble - (Referencias de Design)
 * RamdomAPI - https://randomapi.com/ (Gerar uma fake API pra teste)
 * Javascript.info - https://javascript.info/ (Tudo sobre Javascript)
 * Treinar Front End - https://www.treinarfrontend.com/ 
@@ -27,14 +26,11 @@ Encontrar uma forma de posso acessar todos os sites.
 * Explicação sobre git-flow - https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
 * Documentação sobre mais de 500 api's - https://any-api.com/
 * HE:Labs - https://helabs.com/blog/
-* WeDeploy - https://wedeploy.com/
-* Heroku - https://www.heroku.com/ 
-* Relp.it - https://repl.it/ (Ide online de várias linguagens)
 * cryptobook - https://cryptobook.nakov.com/ (Criptografia para devs)
 * techcrunch - https://techcrunch.com
 * wired
 * thoughtworks (Olhar o radar) - https://www.thoughtworks.com/pt
-* https://dzone.com/
+* DZone - https://dzone.com/
 * Minerando Dados - http://minerandodados.com.br/ (Blog sobre Data Science)
 * https://www.manning.com/ - Compras de ebooks sobre tecnologias
 * https://devfreebooks.github.io/ - Site de livros grátis para devs
@@ -49,7 +45,6 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://opensource.guide/pt/ - Guia de Open Source criado pelo Github
 * https://www.npmtrends.com - Comparações de pacotes npm para saber se vale a pena instalar
 * https://sizzy.co/ - Browser para testar front
-* https://carbon.now.sh/ - Site para criar print de códigos legais
 * [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
 
 
@@ -58,15 +53,22 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Free For Dev](https://free-for.dev/#/) - Um site com mais de 680 ferramentas para desenvolvedores
 * [Color Whell](https://color.adobe.com/pt/create) - Site que ajuda com a escolha das cores
 * [Shields.io](https://shields.io/) - Site para colocar badges no repositório do git usando o Travis, Docker etc.
+* [Dribbble](https://dribbble.com/) - Descubra os principais designers e criativos do mundo
+* [Heroku](https://www.heroku.com/) - Para implantar, gerenciar e dimensionar aplicativos
+* [Relp.it](https://repl.it/) - Ide online de várias linguagens
+* [Carbon](https://carbon.now.sh/) - Crie e compartilhe imagens bonitas do seu código-fonte. Comece a digitar ou solte um arquivo na área de texto para começar.
+
 
 ## Projetos:
 
 * [App Ideias Collection](https://github.com/florinpop17/app-ideas) - Repositório com mais de 80 ideias para fazer projetos
 
+
 ## Artigos Importantes:
 
 * https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2
 * http://bevacqua.github.io/promisees/
+
 
 ## Cursos:
 		
@@ -88,7 +90,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * python para zumbis -
 * Boson Treinamentos - http://www.bosontreinamentos.com.br/
 * Thiengo Calopsita
-* veduca - https://veduca.org/ (Olhar os cursos para assuntos pessoais e fazer !)
+* [veduca](https://veduca.org/) - (Olhar os cursos para assuntos pessoais e fazer !)
 * Loiane Groner
 * Linux Academy - https://linuxacademy.com/cp/plan/all/userid/412186
 * Dev Dojo - http://www.devdojo.com.br/
@@ -116,19 +118,18 @@ evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.
 	
 ## Desafios:
 
-* code:nation - site para desafios na programação
 * github challenges - métodos para achar desafios interessantes no github
-* Code Fights - site para desafios na programação
-* uri online judge - site para desafios na programação
-* code wars - site para desafios na programação
-* hacker hank
+* [Code Signal](https://codesignal.com/) - Plataforma de avaliação baseada em habilidades
+* [Uri Online Judge](https://www.urionlinejudge.com.br/) - Plataforma na qual você possa aprender, praticar e aprimorar suas habilidades em algoritmos
+* [Code Wars](https://www.codewars.com/) - site para desafios na programação
+* [HackerRank](https://www.hackerrank.com/) - Desafios competitivos de programação para consumidores e empresas, onde os desenvolvedores competem tentando programar de acordo com as especificações fornecidas.
 * khan academy
 * Sphere Online Judge - https://www.spoj.com/
 * Programmr - http://www.programmr.com/
 * Frontloops.io - https://frontloops.io/ (Explicando o que é o frontloops https://iagolaguna.com/post/frontloops-o-desafio/)
 * Coding Game 
-* Top Coder - https://www.topcoder.com/
-* hacker earth - 
+* [Top Coder](https://www.topcoder.com/)- eng - empresa que administra competições de programação. Ele hospeda quinzenalmente competições de algoritmos online, conhecidas como SRMs, assim como competições semanais em design e desenvolvimento. O trabalho em design e desenvolvimento produz softwares úteis que são licenciados para lucro
+* [HackerEarth](https://www.hackerearth.com/) - Sites com desafios de programação
 * Try Git - http://try.github.io/
 * Coderbyte - https://coderbyte.com/?s=courses#all
 * Exercism.io - https://exercism.io/
