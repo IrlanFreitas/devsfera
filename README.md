@@ -116,6 +116,7 @@ desenvolvedor para arquiteto de software
 * [Aprenda React](https://www.aprendareact.com.br/) - pt/br - Aprender os básicos de React e
 evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.js
 * [Desenvolvedor.io](https://desenvolvedor.io/) - pt/br - Cursos na área de desenvolvimento com foco em Arquitetura de Software
+* [Brilliant.org](https://brilliant.org/) - eng - premium - Cursos focados nos temas de Matemática, Ciência e Ciência da Computação.
 	
 ## Desafios:
 
