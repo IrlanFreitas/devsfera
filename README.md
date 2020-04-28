@@ -84,12 +84,12 @@ Encontrar uma forma de posso acessar todos os sites.
 * code academy
 * udemy
 * udacity
-* https://cursos.nodebr.org/ - free / pt-br
+* [Imersão de Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - free / pt-br
 * egghead.io - https://egghead.io/courses
 * alison - https://alison.com/pt-BR
 * eSecurity - 
 * python para zumbis -
-* Boson Treinamentos - http://www.bosontreinamentos.com.br/
+* [Boson Treinamentos](http://www.bosontreinamentos.com.br/) - free / pt-br
 * Thiengo Calopsita
 * [veduca](https://veduca.org/) - (Olhar os cursos para assuntos pessoais e fazer !)
 * Loiane Groner
@@ -105,8 +105,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * FrontEnd Masters - https://frontendmasters.com/ - eng
 * How To GraphQl - https://www.howtographql.com/ - eng
 * GlobalCode - https://www.globalcode.com.br/gratuitos/minicursos 
-* https://scrimba.com/ - eng
-* http://www.powersearchingwithgoogle.com/ - Curso de Pesquisa Avançada no Google
+* [Scrimba](https://scrimba.com/) -  freemium - eng
+* [Power Search With Google](http://www.powersearchingwithgoogle.com/) - Curso de Pesquisa Avançada no Google
 * [Rocketseat](https://skylab.rocketseat.com.br/dashboard) - pt/br - Pago e free - Skylab plataforma de cursos free
 * [jscomplete](https://jscomplete.com/) - eng - Pago, site para aprender tudo relacionado a js
 * [Digital Innovation One](https://digitalinnovation.one/) - pt/br - Free - Cursos, bootcamps e projetos sobre tecnologia e inovação
