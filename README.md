@@ -60,6 +60,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Roadmap](https://roadmap.sh/) - Site com Roadmaps pelos grupos de estudo da área de tecnologia, Frontend, Backend, DevOps etc.
 * [Web skills](https://andreasbm.github.io/web-skills/?compact) - Site com todo guia de conhecimendo necessário para ser um ótimo desenvolvedor, fundamentos, acessibilidade, web components, progressive web apps, build tools etc.
 * [https://teachyourselfcs.com/](Teach Yourseft CS) - Site de como ensinar a si mesmo Ciência da Computação.
+* [https://www.jhipster.tech/](JHipster.tech) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
 
 
 ## Projetos:
