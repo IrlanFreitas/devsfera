@@ -61,6 +61,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Web skills](https://andreasbm.github.io/web-skills/?compact) - Site com todo guia de conhecimendo necessário para ser um ótimo desenvolvedor, fundamentos, acessibilidade, web components, progressive web apps, build tools etc.
 * [Teach Yourseft CS](https://teachyourselfcs.com/) - Site de como ensinar a si mesmo Ciência da Computação.
 * [JHipster.tech](https://www.jhipster.tech/) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
+* [10 Extraordinary Github Repos](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) - 10 Extraordinários repositórios Github com milhares de coisas pra aprender.
 
 
 ## Projetos:
