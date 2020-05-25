@@ -59,8 +59,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Carbon](https://carbon.now.sh/) - Crie e compartilhe imagens bonitas do seu código-fonte. Comece a digitar ou solte um arquivo na área de texto para começar.
 * [Roadmap](https://roadmap.sh/) - Site com Roadmaps pelos grupos de estudo da área de tecnologia, Frontend, Backend, DevOps etc.
 * [Web skills](https://andreasbm.github.io/web-skills/?compact) - Site com todo guia de conhecimendo necessário para ser um ótimo desenvolvedor, fundamentos, acessibilidade, web components, progressive web apps, build tools etc.
-* [https://teachyourselfcs.com/](Teach Yourseft CS) - Site de como ensinar a si mesmo Ciência da Computação.
-* [https://www.jhipster.tech/](JHipster.tech) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
+* [Teach Yourseft CS](https://teachyourselfcs.com/) - Site de como ensinar a si mesmo Ciência da Computação.
+* [JHipster.tech](https://www.jhipster.tech/) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
 
 
 ## Projetos:
