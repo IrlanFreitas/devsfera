@@ -47,6 +47,9 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://sizzy.co/ - Browser para testar front
 * [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
 
+## Blogs: 
+
+* [gomex](https://gomex.me/) - Sobre DevOps
 
 ## Ferramentas:
 
