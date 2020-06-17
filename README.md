@@ -106,6 +106,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * Balta.io - http://balta.io/
 * Progate - https://progate.com/
 * Github Learning Labs - https://lab.github.com/
+* Github Education - https://education.github.com/
 * Hacker 101 - https://www.hacker101.com/
 * Learn Javascript Online - https://learnjavascript.online
 * FrontEnd Masters - https://frontendmasters.com/ - eng
