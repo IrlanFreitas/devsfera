@@ -9,7 +9,7 @@ Encontrar uma forma de posso acessar todos os sites.
 		
 * [dev.to](https://dev.to/) - site sobre o assunto
 * [dev.all](https://www.devall.com.br/) - site sobre programação
-* the hack - https://thehack.com.br/
+* [the hack](https://thehack.com.br/) - Produto editorial que nasceu com a missão de falar sobre hacking, segurança da informação e tecnologia com um discurso diferente do que costumamos ver por aí.
 * William Oliveiras - https://woliveiras.com.br
 * Gabs Ferreira - http://gabsferreira.com/
 * Code Casts - https://blog.codecasts.com.br/
