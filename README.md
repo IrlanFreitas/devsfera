@@ -46,6 +46,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://www.npmtrends.com - Comparações de pacotes npm para saber se vale a pena instalar
 * https://sizzy.co/ - Browser para testar front
 * [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
+* [[Software Architecture ](https://www.notion.so/Software-Architecture-67ede7ea4d034dfcbaee7ce9e3b03ea1)](https://www.notion.so/Software-Architecture-67ede7ea4d034dfcbaee7ce9e3b03ea1) - Aglomerado de links e conhecimento sobre arquitetura de software
 
 ## Blogs: 
 
@@ -65,11 +66,13 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Teach Yourseft CS](https://teachyourselfcs.com/) - Site de como ensinar a si mesmo Ciência da Computação.
 * [JHipster.tech](https://www.jhipster.tech/) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
 * [10 Extraordinary Github Repos](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) - 10 Extraordinários repositórios Github com milhares de coisas pra aprender.
+* [Nodesign](https://nodesign.dev/) - Esse site tem vários recursos pra devs ciarem sites sem ter habilidades de design
 
 
 ## Projetos:
 
 * [App Ideias Collection](https://github.com/florinpop17/app-ideas) - Repositório com mais de 80 ideias para fazer projetos
+* [Practice.dev](https://practice.dev/) - Plataforma de código aberto onde os desenvolvedores podem resolver desafios de programação que refletem problemas de projetos reais.
 
 
 ## Artigos Importantes:
