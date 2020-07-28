@@ -67,12 +67,13 @@ Encontrar uma forma de posso acessar todos os sites.
 * [JHipster.tech](https://www.jhipster.tech/) - Plataforma de desenvolvimento para gerar, desenvolver e implantar rapidamente aplicativos da Web modernos e arquiteturas de microsserviços.
 * [10 Extraordinary Github Repos](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) - 10 Extraordinários repositórios Github com milhares de coisas pra aprender.
 * [Nodesign](https://nodesign.dev/) - Esse site tem vários recursos pra devs ciarem sites sem ter habilidades de design
-
+* [4devs](https://www.4devs.com.br/) - O 4Devs existe para ajudar programadores com ferramentas online e gratuitas
 
 ## Projetos:
 
 * [App Ideias Collection](https://github.com/florinpop17/app-ideas) - Repositório com mais de 80 ideias para fazer projetos
 * [Practice.dev](https://practice.dev/) - Plataforma de código aberto onde os desenvolvedores podem resolver desafios de programação que refletem problemas de projetos reais.
+* [DevChallenge](https://www.devchallenge.com.br/) - Desafios de front-end, back-end e mobile
 
 
 ## Artigos Importantes:
