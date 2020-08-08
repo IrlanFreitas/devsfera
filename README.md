@@ -75,6 +75,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Practice.dev](https://practice.dev/) - Plataforma de código aberto onde os desenvolvedores podem resolver desafios de programação que refletem problemas de projetos reais.
 * [DevChallenge](https://www.devchallenge.com.br/) - Desafios de front-end, back-end e mobile.
 * [FrontEndMentor](https://www.frontendmentor.io/) - Desafios completos direcionados ao frontend.
+* [Glitch](https://glitch.com/@glitch/learn-to-code) - Um site com um monte de projeto legal pra fazer.
 
 
 ## Artigos Importantes:
