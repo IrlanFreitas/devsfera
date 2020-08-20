@@ -76,6 +76,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [DevChallenge](https://www.devchallenge.com.br/) - Desafios de front-end, back-end e mobile.
 * [FrontEndMentor](https://www.frontendmentor.io/) - Desafios completos direcionados ao frontend.
 * [Glitch](https://glitch.com/@glitch/learn-to-code) - Um site com um monte de projeto legal pra fazer.
+* [Awesome](https://awesomeopensource.com/) - Site com referencia pra tudo que existe em relação a computação.
 
 
 ## Artigos Importantes:
