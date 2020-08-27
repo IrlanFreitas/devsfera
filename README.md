@@ -132,7 +132,8 @@ evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.
 * [Desenvolvedor.io](https://desenvolvedor.io/) - pt/br - Cursos na área de desenvolvimento com foco em Arquitetura de Software
 * [Brilliant.org](https://brilliant.org/) - eng - premium - Cursos focados nos temas de Matemática, Ciência e Ciência da Computação.
 * [The beginner's guide to react](https://egghead.io/courses/the-beginner-s-guide-to-react) - eng - Porem se colocar o tempo do vídeo mais lento e as legendas, vale a pena.
-* [Capes e MEC](http://avamec.mec.gov.br/#/instituicao/capes) - Cursos gratuitos de aperfeiçoamento Português, Matemática e Tics
+* [Capes e MEC](http://avamec.mec.gov.br/#/instituicao/capes) - Cursos gratuitos de aperfeiçoamento Português, Matemática e Tics.
+* [Developers Google](https://developers.google.com/web) - Cursos gratuítos do google focado na web, lighthouse, dev tools e muito mais.
 	
 ## Desafios:
 
