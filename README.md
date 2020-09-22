@@ -93,6 +93,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * skillshare - https://www.skillshare.com/ - cursos / eng
 * alura - cursos / pt-br
 * devmedia - cursos / pt-br
+* [freecodecamp](https://www.freecodecamp.org/) - eng 
 * algaworks - cursos / pt-br
 * origamid - cursos / pt-br
 * code academy
