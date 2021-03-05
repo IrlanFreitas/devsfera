@@ -68,6 +68,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [10 Extraordinary Github Repos](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) - 10 Extraordinários repositórios Github com milhares de coisas pra aprender.
 * [Nodesign](https://nodesign.dev/) - Esse site tem vários recursos pra devs ciarem sites sem ter habilidades de design
 * [4devs](https://www.4devs.com.br/) - O 4Devs existe para ajudar programadores com ferramentas online e gratuitas
+* [Explain Shell](https://explainshell.com/) - Escreva uma linha de comando para ver o texto de ajuda que corresponde a cada argumento
 
 ## Projetos:
 
