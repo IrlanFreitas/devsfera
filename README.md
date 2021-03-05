@@ -165,6 +165,7 @@ evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.
 * [Real Dev](https://real.dev/) - Ensinar conceitos de programação te fazendo resolver problemas do mundo real
 * [Advent of Code](https://adventofcode.com/) - Aprender uma linguagem nova/aperfeiçoar uma linguagem que tu já sabe e de praxe também praticar TDD
 * [Javascript30](https://javascript30.com/) - Construindo 30 coisas com 30 dias com 30 tutoriais. Sem Frameworks × Sem Compiladores × Sem Bibliotecas × Sem Boilerplate
+* [CSSBattle](https://cssbattle.dev/) - Site para desafios relacionados com o css
 
 	
 ## Canais:
