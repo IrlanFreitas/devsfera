@@ -71,6 +71,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [Nodesign](https://nodesign.dev/) - Esse site tem vários recursos pra devs ciarem sites sem ter habilidades de design
 * [4devs](https://www.4devs.com.br/) - O 4Devs existe para ajudar programadores com ferramentas online e gratuitas
 * [Explain Shell](https://explainshell.com/) - Escreva uma linha de comando para ver o texto de ajuda que corresponde a cada argumento
+* [Learning Anything](https://learn-anything.xyz/) - Site onde qualquer assunto pode ser pesquisado e estudado
 
 ## Projetos:
 
