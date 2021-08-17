@@ -48,6 +48,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://sizzy.co/ - Browser para testar front
 * [Comunidades Tech](https://comunidades.tech/) - Site com todas as comunidades de tecnologia
 * [Software Architecture](https://www.notion.so/Software-Architecture-67ede7ea4d034dfcbaee7ce9e3b03ea1/) - Aglomerado de links e conhecimento sobre arquitetura de software
+* [React Patterns](https://reactpatterns.com/)
 * [Ultimate React Resourcers](https://hulyakarakaya.hashnode.dev/ultimate-react-resources)
 * [12 Css Resources to Improve this Skill](https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development)
 
