@@ -40,6 +40,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * https://gimli.app/ - Editor front end facilitador de geração de telas
 * http://sorting.at/ - Site sobre apresentações sobre formas de fazer ordenação
 * https://undesign.learn.uno/ - Uma coleção de ferramentas de design gratuitos pra devs e designers
+* [Openby Design](https://openby.design/) - Free & Open Source Design Assets
 * https://belly.io/programming - Curadoria de lives de programação
 * https://www.programmableweb.com/apis/directory - Catálogo de API's
 * https://opensource.guide/pt/ - Guia de Open Source criado pelo Github
