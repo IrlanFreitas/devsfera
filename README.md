@@ -172,6 +172,7 @@ evoluir passo-a-passo até conseguir publicar sua primeira aplicação em React.
 * [Advent of Code](https://adventofcode.com/) - Aprender uma linguagem nova/aperfeiçoar uma linguagem que tu já sabe e de praxe também praticar TDD
 * [Javascript30](https://javascript30.com/) - Construindo 30 coisas com 30 dias com 30 tutoriais. Sem Frameworks × Sem Compiladores × Sem Bibliotecas × Sem Boilerplate
 * [CSSBattle](https://cssbattle.dev/) - Site para desafios relacionados com o css
+* [Codewell](https://www.codewell.cc/challenges) - Site para melhorar com o Html e Css
 
 	
 ## Canais:
