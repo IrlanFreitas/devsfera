@@ -51,6 +51,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * [React Patterns](https://reactpatterns.com/)
 * [Ultimate React Resourcers](https://hulyakarakaya.hashnode.dev/ultimate-react-resources)
 * [12 Css Resources to Improve this Skill](https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development)
+* [A11Y Style Guide](https://a11y-style-guide.com/style-guide/) - Site sobre estilização com foco em acessibilidade
+* [Boas práticas com acessibilidade](https://blog.handtalk.me/acessibilidade-ranking-google/)
 
 ## Blogs: 
 
