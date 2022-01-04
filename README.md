@@ -54,6 +54,7 @@ Encontrar uma forma de posso acessar todos os sites.
 * [12 Css Resources to Improve this Skill](https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development)
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/) - Site sobre estilização com foco em acessibilidade
 * [Boas práticas com acessibilidade](https://blog.handtalk.me/acessibilidade-ranking-google/)
+* [The Guide to Design](https://start.uxdesign.cc/) - The ultimate guide with all the secrets you will need to know to become a fabulous design unicorn
 
 ## Blogs: 
 
