@@ -78,6 +78,8 @@ Encontrar uma forma de posso acessar todos os sites.
 * [4devs](https://www.4devs.com.br/) - O 4Devs existe para ajudar programadores com ferramentas online e gratuitas
 * [Explain Shell](https://explainshell.com/) - Escreva uma linha de comando para ver o texto de ajuda que corresponde a cada argumento
 * [Learning Anything](https://learn-anything.xyz/) - Site onde qualquer assunto pode ser pesquisado e estudado
+* [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
+
 
 ## Projetos:
 
